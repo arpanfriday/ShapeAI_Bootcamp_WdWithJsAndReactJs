@@ -6,8 +6,9 @@ function Note() {
       <h1>Javascript & Reac.JS</h1>
       <hr />
       <p>
-        This was an amazing bootcanp taken up by Sharya Sinha. We covered
-        everything from scratch including Javascript, React.JS
+        A 7 days bootcamp taken by renowned faculty of ShapeAI.
+        You will learn about HTML, basic javascript, and finally
+        the working of the react framework and how to make applications with it.
       </p>
     </div>
   );
